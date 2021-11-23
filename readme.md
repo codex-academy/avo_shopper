@@ -1,8 +1,8 @@
 # Avo shopper
 
-It’s avocado season and there are special offers everywhere. Help your friends to keep track of finding the cheapest avos by creating a little web app.
+It’s avocado season and there are special offers everywhere. Help your friends to keep track of finding the cheapest avos by creating a little web app using the supplied Factory Function in `avo-shopper.js`.
 
-Using the supplied Factory Function in `avo-shopper.js` and run the sql scrit in `sql/tables.sql` to create the required table locally.
+ Use the sql script in `sql/tables.sql` to create the required tables in your local database.
 
 Check out `test/avo-shopper.test.js` to see how to use the supplied Factory Function.
 
@@ -21,12 +21,28 @@ Check out `test/avo-shopper.test.js` to see how to use the supplied Factory Func
 
 * Allow a user to enter how much money they have to recommend to them where to go and buy their avo’s. Show the deals, the shop name and the unit_price for each deal.
 
+## Get going
+
+To get going:
+
+* Fork & Clone this repo
+* Install the dependencies
+* Run the app
+
 ## Other things
 
-* Deploy your app to heroku - share the link with us.
+* Deploy your app to heroku - share the link with us
 * Ensure your app is responsive.
 * Create a color scheme with some elements of green using : https://coolors.co/
-* Create a paper prototype for your screens - plan your screens.
+* Create a paper prototype for your screens - plan your screens. Add this to your repo in GitHub.
 * Use ExpressJS and Handlebars we started the app for you in `index.js`.
+* Setup your own travis deployment.
+
+## Share this with us via email
+
+* Your paper prototype - do this first. In the first hour of working on your app.
+* The link to your deployed app. 
+
+
 
 

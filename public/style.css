@@ -1,0 +1,10 @@
+body {
+	background-color: lightseagreen;
+	color: whitesmoke;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+	margin: auto;
+	width: 80%;
+}
